@@ -1,4 +1,4 @@
-<body style="background-color:Yellow;">
+<body style="background-color:Cyan;">
 <head>
 <style>
 h1 {text-align: center;}
