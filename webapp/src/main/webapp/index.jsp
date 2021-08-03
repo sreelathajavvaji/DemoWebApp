@@ -1,4 +1,4 @@
-<body style="background-color:Cyan;">
+<body style="background-color:Tomato;">
 <head>
 <style>
 h1 {text-align: center;}
@@ -10,6 +10,7 @@ h1 {text-align: center;}
 <p> Azure App Services - to host the webapp in Azure cloud </p>
 <p> Pipelines  - to automate build/test/deployments of code</p>
 <p> Repos - used for selenium code (can use GitHub instead)</p>
+<p> Sreelathas First Devops implementation</p>
 
 Test
 <h2> Azure Subscriptions</h2>
